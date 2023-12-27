@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kshitiz Tripathi 👨‍💻
+# Hi 👋, I'm Kshitiz Tripathi 👨‍💻
 
 # 💫 About Me:
 🌳 BCA student in Computer Application<br>☁️ Cloud Enthusiast<br>🤓 Tech-savvy<br>🔥 Ambitious and Motivated<br>🔎 Always Exploring<br><br>👨‍🎓 I’m a Bachelor's student in Computer Application at the REVA University<br>🧠 I'm very sunny, empathetic and friendly.<br>🌱 I’m currently learning AWS and Machine Learning.<br><br><br>During university I learnt and worked on several projects on VR/AR, Machine Learning and IoT.<br><br>📫 Mail me at kshitiz.vns94@gmail.com
