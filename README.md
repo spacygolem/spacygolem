@@ -1,5 +1,5 @@
 # Hello World 👋,
-## It's Kshitiz Tripathi 👨‍💻 
+# It's Kshitiz Tripathi 👨‍💻 
 
 
 
