@@ -16,8 +16,10 @@
 ### ✍️ Random Inspirational Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<cente>
 ### 😂 Meme Treats
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</cente>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=spacygolem&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
