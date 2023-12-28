@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, </h1>
-<h1 align="center"><i>It's Kshitiz Tripathi 👨‍💻 </i></h1>
+<h1 align="center">It's <i>Kshitiz Tripathi 👨‍💻 </i></h1>
 
 
 
