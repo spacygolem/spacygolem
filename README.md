@@ -1,4 +1,5 @@
-# Hey 👋 I'm Kshitiz Tripathi 👨‍💻 
+# Hey 👋 
+I'm Kshitiz 👨‍💻 
 
 
 
