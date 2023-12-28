@@ -6,10 +6,6 @@
 # 💫 About Me:
 🌳 BCA student in Computer Application<br>☁️ Cloud Enthusiast<br>🤓 Tech-savvy<br>🔥 Ambitious and Motivated<br>🔎 Always Exploring<br><br>👨‍🎓 I’m a Bachelor's student in Computer Application at the REVA University<br>🧠 I'm very sunny, empathetic and friendly.<br>🌱 I’m currently learning AWS and Machine Learning.<br><br><br>During university I learnt and worked on several projects on VR/AR, Machine Learning and IoT.<br><br>📫 Mail me at kshitiz.vns94@gmail.com
 
-# 🎓 Certifications:
-![AWS]([https://link_to_your_image.jpg](https://th.bing.com/th/id/OIP.IW1gyZJPKH4Vl3NVT2Ae5AAAAA?rs=1&pid=ImgDetMain))
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/spacyGOLEM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imspicigolem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tripathi-kshitiz) 
 
