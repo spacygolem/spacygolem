@@ -8,6 +8,10 @@
 
 <br>
 
+## 🎓 Achievements:
+
+<img src='https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png' style="height: 200px;"/>
+
 ## 🌐 Contact Me:
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=GitHub&logoColor=white&labelColor=black&color=000000)](https://github.com/spacygolem)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/spacyGOLEM) 
