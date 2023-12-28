@@ -1,5 +1,5 @@
-<h1> Hello World 👋, </h1>
-<h1>It's Kshitiz Tripathi 👨‍💻</h1>
+# Hello World 👋,
+# It's Kshitiz Tripathi 👨‍💻 
 
 
 
