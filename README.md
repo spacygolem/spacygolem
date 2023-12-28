@@ -38,5 +38,3 @@
 
 
 
-
-<img src='https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png' style="height: 400px;"/>
