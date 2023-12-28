@@ -15,7 +15,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=spacygolem&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=spacygolem&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spacygolem&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
