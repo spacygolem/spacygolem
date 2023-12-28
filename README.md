@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🌳 BCA student in Computer Application<br>☁️ Cloud Enthusiast<br>🤓 Tech-savvy<br>🔥 Ambitious and Motivated<br>🔎 Always Exploring<br><br>👨‍🎓 I’m a Bachelor's student in Computer Application at the REVA University<br>🧠 I'm very sunny, empathetic and friendly.<br>🌱 I’m currently learning AWS and Machine Learning.<br><br><br>During university I am looking for several project ideas to work on.
+🌳 BCA student in Computer Application<br>☁️ Cloud Enthusiast<br>🤓 Tech-savvy<br>🔥 Ambitious and Motivated<br>🔎 Always Exploring<br><br>👨‍🎓 I’m a Bachelor's student in Computer Application at the REVA University<br>🧠 I'm very sunny, empathetic and friendly.<br>🌱 I’m currently learning AWS and Machine Learning.<br><br><br> I am looking for several projecs and ideas to get my hands on.
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kshitiz.vns94@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/spacyGOLEM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imspicigolem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tripathi-kshitiz) 
