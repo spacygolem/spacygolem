@@ -9,7 +9,11 @@
 <br>
 
 ## 🌐 Contact Me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kshitiz.vns94@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/spacyGOLEM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imspicigolem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tripathi-kshitiz) 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=GitHub&logoColor=white&labelColor=black&color=000000)](https://github.com/spacygolem)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/spacyGOLEM) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imspicigolem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tripathi-kshitiz) 
+[![Credly](https://img.shields.io/badge/Credly-100000?style=flat&logo=Credly&logoColor=white&labelColor=FF9500&color=FF9500)](https://www.credly.com/users/kshitiz-0209)
 
 <br>
 
