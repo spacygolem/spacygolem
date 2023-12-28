@@ -1,5 +1,6 @@
-# Hey 👋 
-## I'm Kshitiz 👨‍💻 
+# Hey👋 
+# I'm Kshitiz 👨‍💻 
+# Welcome to my profile!!
 
 
 ## 💫 About Me:
