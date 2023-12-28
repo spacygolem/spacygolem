@@ -10,7 +10,7 @@
 
 ## 🎓 Achievements:
 
-<img src='https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png' style="height: 200px;"/><img src='https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png' style="height: 200px;"/><img src='https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png' style="height: 200px;"/><img src='https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png' style="height: 200px;"/> 
+<img src='https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png' style="height: 200px;"/><img src='https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png' style="height: 200px;"/><img src='https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png' style="height: 200px;"/><img src='https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png' style="height: 200px;"/><img src='https://images.credly.com/size/680x680/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png' style="height: 200px;"/> 
 
 ## 🌐 Contact Me:
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=GitHub&logoColor=white&labelColor=black&color=000000)](https://github.com/spacygolem)
