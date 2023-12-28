@@ -1,4 +1,4 @@
-# <align="center">Hello World 👋, 
+# <h3 align="center">Hello World 👋, </h3>
 # It's Kshitiz Tripathi 👨‍💻
 
 
