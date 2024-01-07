@@ -7,7 +7,8 @@
 
 ## 🎓 Achievements:
 
-<img src='https://images.credly.com/size/680x680/images/d85070dc-b233-4848-9db4-c55319435b67/image.png' style="height: 200px;"/> <img src='https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png' style="height: 200px;"/> <img src='https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png' style="height: 200px;"/><img src='https://images.credly.com/size/680x680/images/d1024c79-59ff-41df-99ea-0503762e9b3b/image.png' style="height: 200px;"/> <img src='https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png' style="height: 200px;"/>
+<img src='https://images.credly.com/size/680x680/images/d85070dc-b233-4848-9db4-c55319435b67/image.png' style="height: 200px;"/> <img src='https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png' style="height: 200px;"/> <img src='https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png' style="height: 200px;"/>
+<img src='https://images.credly.com/size/680x680/images/d1024c79-59ff-41df-99ea-0503762e9b3b/image.png' style="height: 200px;"/> <img src='https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png' style="height: 200px;"/>
 
 <br>
 
