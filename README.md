@@ -3,7 +3,7 @@
 
 
 ## 💫 About Me:
-🌳 BCA student in Computer Application<br>☁️ Cloud Enthusiast<br>💾 Tech-savvy<br>🔥 Ambitious and Motivated<br>🔎 Always Exploring<br><br>👨‍🎓 I’m a Bachelor's student in Computer Application at the REVA University<br>🧠 I'm very sunny, empathetic and friendly.<br>🌱 I’m currently learning AWS and Machine Learning.<br>🤓 Upcoming Associate Analyst at Deloitte <br><br><br> 
+🌳 BCA student in Computer Application<br>☁️ Cloud Enthusiast<br>💾 Tech-savvy<br>🔥 Ambitious and Motivated<br>🔎 Always Exploring<br><br>👨‍🎓 I’m a Bachelor's student in Computer Application at the REVA University<br>🧠 I'm very sunny, empathetic and friendly.<br>🌱 I’m currently learning AWS and Machine Learning.<br>🤓 Data and AI Associate at Deloitte <br><br><br> 
 
 ## 🎓 Achievements:
 
